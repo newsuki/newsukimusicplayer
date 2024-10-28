@@ -1,0 +1,120 @@
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\MusicPlayer_AK3TRB.exe.config
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\MusicPlayer_AK3TRB.exe
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\MusicPlayer_AK3TRB.pdb
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.AssemblyReference.cache
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.SuggestedBindingRedirects.cache
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.Form1.resources
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.Properties.Resources.resources
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.GenerateResource.cache
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.CoreCompileInputs.cache
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.exe
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.pdb
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.Asio.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.Core.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.Midi.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.Wasapi.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.WinForms.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.WinMM.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\System.Security.AccessControl.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\System.Security.Principal.Windows.dll
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.Asio.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.Core.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.Midi.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.Wasapi.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.WinForms.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\NAudio.WinMM.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\System.Security.AccessControl.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\bin\Debug\System.Security.Principal.Windows.xml
+D:\Users\C404-02\Documents\Adrian Karahmetović VS\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.CopyComplete
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\MusicPlayer_AK3TRB.exe.config
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\MusicPlayer_AK3TRB.exe
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\MusicPlayer_AK3TRB.pdb
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.Asio.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.Core.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.Midi.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.WinForms.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.WinMM.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.Asio.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.Core.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.Midi.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.WinForms.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\NAudio.WinMM.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.AssemblyReference.cache
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.Form1.resources
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.Properties.Resources.resources
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.GenerateResource.cache
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.csproj.CopyComplete
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.exe
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.pdb
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\AngleSharp.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\CliWrap.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Buffers.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Memory.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Text.Json.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.ValueTuple.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\YoutubeExplode.Converter.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\YoutubeExplode.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\AngleSharp.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\CliWrap.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Buffers.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Memory.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Text.Json.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.ValueTuple.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\YoutubeExplode.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\YoutubeExplode.Converter.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.LinkForm.resources
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.Core.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.CodeDom.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.pdb
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.Core.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Google.Apis.YouTube.v3.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.CodeDom.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\SimpleTCP.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\obj\Debug\MusicPlayer_AK3TRB.Register.resources
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\x86\sqlite3.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\x64\sqlite3.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\EntityFramework.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\EntityFramework.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adrian\OneDrive - Šolski center Velenje- School centre Velenje\Namizje\MusicPlayer_AK3TRB\bin\Debug\System.Data.SQLite.xml
